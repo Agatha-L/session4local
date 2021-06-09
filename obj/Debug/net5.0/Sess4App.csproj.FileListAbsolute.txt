@@ -1,0 +1,16 @@
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.exe
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.deps.json
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.runtimeconfig.json
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.runtimeconfig.dev.json
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.dll
+S:\Session4\sess4app\bin\Debug\net5.0\ref\Sess4App.dll
+S:\Session4\sess4app\bin\Debug\net5.0\Sess4App.pdb
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.csprojAssemblyReference.cache
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.GeneratedMSBuildEditorConfig.editorconfig
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.AssemblyInfoInputs.cache
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.AssemblyInfo.cs
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.csproj.CoreCompileInputs.cache
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.dll
+S:\Session4\sess4app\obj\Debug\net5.0\ref\Sess4App.dll
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.pdb
+S:\Session4\sess4app\obj\Debug\net5.0\Sess4App.genruntimeconfig.cache
